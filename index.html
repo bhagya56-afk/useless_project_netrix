@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Sadya Plate Validator 🍛</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>ചേട്ടാ കുറച്ച് ചോറ് എടുക്കട്ടെ🍛 </h1>
+
+  <!-- Feedback will appear here -->
+  <div id="message-box"></div>
+
+  <!-- Dish items -->
+  <div class="items">
+    <div class="draggable" id="item-rice" draggable="true">
+      <div class="emoji">🍚</div><div class="label">Rice</div>
+    </div>
+    <div class="draggable" id="item-kichadi" draggable="true">
+      <div class="emoji">🥒</div><div class="label">Kichadi</div>
+    </div>
+    <div class="draggable" id="item-kalan" draggable="true">
+      <div class="emoji">🥘</div><div class="label">Kalan</div>
+    </div>
+    <div class="draggable" id="item-chips" draggable="true">
+      <div class="emoji">🍟</div><div class="label">Chips</div>
+    </div>
+    <div class="draggable" id="item-payasam" draggable="true">
+      <div class="emoji">🍮</div><div class="label">Payasam</div>
+    </div>
+    <div class="draggable" id="item-sambar" draggable="true">
+      <div class="emoji">🍛</div><div class="label">Sambar</div>
+    </div>
+    <div class="draggable" id="item-rasam" draggable="true">
+      <div class="emoji">🥣</div><div class="label">Rasam</div>
+    </div>
+    <div class="draggable" id="item-pickle" draggable="true">
+      <div class="emoji">🥫</div><div class="label">Pickle</div>
+    </div>
+    <div class="draggable" id="item-thoran" draggable="true">
+      <div class="emoji">🥬</div><div class="label">Thoran</div>
+    </div>
+    <div class="draggable" id="item-avial" draggable="true">
+      <div class="emoji">🥗</div><div class="label">Avial</div>
+    </div>
+    <!-- Non-Sadya dishes -->
+    <div class="draggable" id="item-pizza" draggable="true">
+      <div class="emoji">🍕</div><div class="label">Pizza</div>
+    </div>
+    <div class="draggable" id="item-burger" draggable="true">
+      <div class="emoji">🍔</div><div class="label">Burger</div>
+    </div>
+  </div>
+
+  <!-- Banana Leaf Plate -->
+  <div id="plate" class="plate"></div>
+
+  <!-- Reset Button -->
+  <button id="reset-btn">Reset Plate</button>
+
+  <script src="script.js"></script>
+</body>
+</html>
+
+
+
