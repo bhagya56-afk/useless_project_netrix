@@ -32,7 +32,7 @@ For Software:
 
 ## DEPLOYEMENT LINK OR HOSTED PROJECT LINK
 
-https://useless-project-netrix-dy6x2cx9k-bhagyas-projects-bd38d4a9.vercel.app
+https://useless-project-netrix-anan.vercel.app/
 
 For Hardware:
 - [List main components]
