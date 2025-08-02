@@ -1,7 +1,4 @@
-<img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
-
-
-# [ചേട്ടാ കുറച്ച് ചോറ് എടുക്കട്ടെ] 🎯
+[ചേട്ടാ കുറച്ച് ചോറ് എടുക്കട്ടെ]
 
 
 ## Basic Details
@@ -53,14 +50,18 @@ For SOFTWARE:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot1]
+<img width="1170" height="811" alt="image" src="https://github.com/user-attachments/assets/eb915a79-7b23-46dd-ac60-45814555aebf" />
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+
+![Screenshot2]
+<img width="1228" height="832" alt="image" src="https://github.com/user-attachments/assets/991d658d-a2ea-4d71-b253-9b2b938de7b3" />
+
+
+![Screenshot3]
+<img width="1366" height="902" alt="image" src="https://github.com/user-attachments/assets/9e46bfaa-2125-4e37-af66-dfdefc773ad7" />
+
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
@@ -88,7 +89,7 @@ For Hardware:
 ### Project Demo
 # Video
 [Add your demo video link here]
-*Explain what the video demonstrates*
+
 
 # Additional Demos
 [Add any extra demo materials/links]
