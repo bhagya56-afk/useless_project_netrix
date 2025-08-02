@@ -94,8 +94,8 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
+- [BHAGYA SREE P L]: [HTML AND CSS]
+- [AHSANA FATHIMA]: [JAVA SCRIPT]
 - [Name 3]: [Specific contributions]
 
 ---
